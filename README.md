@@ -1,6 +1,6 @@
-# ATM App made with Python
+# ATM App made with Python3 for Learners
 
-Mimicking the behavior of an ATM is a great task for students, regardless of whether you come from a Data Science or Web Development background. It will allows you to explore real-world applications that deepen your understanding of programming concepts while getting practical value.
+Mimicking the behavior of an ATM is a great task for leanring students, regardless of whether you come from a Data Science or Web Development background. It will allows you to explore real-world applications that deepen your understanding of programming concepts while getting practical value.
 
 An ATM is a fundamental part of modern banking systems, enabling users to perform a variety of transactions conveniently and securely. By undertaking this coding task, students can gain hands-on experience in designing an interactive interface, handling data, and implementing key functionalities.
 
