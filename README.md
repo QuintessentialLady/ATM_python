@@ -8,6 +8,4 @@ During this project, students will have the opportunity to apply the programming
 
 Developing an ATM system also necessitates incorporating functionalities that reflect real-world banking operations. Students will enable secure user authentication, ensuring that only authorized individuals can access their accounts. They will also implement transaction validation and error handling mechanisms to prevent potential issues and ensure reliable operations.
 
-By working on this project, students can enhance their programming skills, foster creativity, and gain valuable experience in building real-world applications. Whether their interests lie in Data Science or Web Development, the ATM task provides a practical and engaging way to learn and apply programming concepts.
-
-Lastly, we can design an intuitive interface that resembles the familiar ATM screens we encounter in our daily lives. This involves creating a menu system with options for various transactions such as withdrawal, deposit, balance inquiry, and fund transfers.
+A design an intuitive interface that resembles the familiar ATM screens we encounter in our daily lives will be created. This involves creating a menu system with options for various transactions such as withdrawal, deposit, balance inquiry, and fund transfers.
